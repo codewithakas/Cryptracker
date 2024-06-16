@@ -1,20 +1,28 @@
-# Cryptocurrency Tracker with React JS, Material UI and Chart JS
+<div align='left'>
+  
 
-## [Watch Full Tutorial on Youtube here](https://youtu.be/QA6oTpMZp84)
+  <h1>Cryptracker</h1>
 
-[![crypto](https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png)](https://youtu.be/QA6oTpMZp84)
+  <p>
+CRYPTRACKER is a React-based web application that harnesses Material UI and Chart.js to deliver real-time cryptocurrency tracking and analysis. Its intuitive interface and responsive design allow users to explore dynamic charts and graphs seamlessly. 
+  </p>
+  
 
-## Demo
-#### Here is a working live demo :  https://crypto-hunter.netlify.app/
+<!-- Badges -->
 
-## Built with 
+<!-- Table of Contents -->
 
-- [React JS](https://reactjs.org/)
-- [Material UI](https://v4.mui.com/)
-- [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
+## :notebook_with_decorative_cover: Table of Contents
 
-## Made with ♥ By [Roadside Coder](https://www.youtube.com/channel/UCIPZVAwDGa-A4ZJxCBvXRuQ)
+- [React](https://reactjs.org/): `npm install react`
+- [Material UI](https://material-ui.com/): `npm install @material-ui/core`
+- [Chart.js](https://www.chartjs.org/): `npm install chart.js`
+- [React Chartjs 2](https://github.com/reactchartjs/react-chartjs-2): `npm install react-chartjs-2`
 
-[![Piyush Agarwal](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/piyush-eon)
 
-MIT © [Piyush Agarwal ](https://github.com/piyush-eon)
+## :handshake: Contact
+
+Project Link: [https://github.com/codewithakas/Cryptracker](https://github.com/codewithakas/Cryptracker)
+<hr />
+<br />
+<div align="center">Don't forget to leave a star ⭐️</div>
