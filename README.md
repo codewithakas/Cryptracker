@@ -17,7 +17,6 @@ CRYPTRACKER is a React-based web application that harnesses Material UI and Char
 - [React](https://reactjs.org/): `npm install react`
 - [Material UI](https://material-ui.com/): `npm install @material-ui/core`
 - [Chart.js](https://www.chartjs.org/): `npm install chart.js`
-- [React Chartjs 2](https://github.com/reactchartjs/react-chartjs-2): `npm install react-chartjs-2`
 
 
 ## :handshake: Contact
